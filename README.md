@@ -2,4 +2,4 @@
 
 Building kiwix tools
 
-Makefile for bulding kiwix-serve
+Makefile for building kiwix-serve
